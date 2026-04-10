@@ -21,6 +21,30 @@ This repository is about **listening** instead of **diagnosing**. It’s about h
 
 ---
 
+## 🌌 The Universal Mirror: Decoding the Cosmos through the Mind
+
+The Baskaboo framework suggests that our internal states are **structural mirrors of the universe**. By observing the rhythm of our four subpersonalities, we can decrypt the dynamic laws that govern reality.
+
+### 1. The Building Blocks (The 4 Voices)
+*   **Pits (Energy ➔ Quantum Field):** The raw spark and the field of infinite potential.
+*   **Mits (Matter ➔ Qubit):** The stable structure and the basic unit of information.
+*   **Klop (Space ➔ Entanglement):** The invisible bond that connects all parts of the system.
+*   **Laram (Time ➔ Wavefunction):** The memory tank that holds the story of our existence.
+
+### 2. The Universal Relationships (The FMFD Loop)
+The interaction of these voices reveals the fundamental forces of the universe:
+1.  **Flip (Gravity):** The relationship between **Energy and Matter**—the initial "tug" of the system.
+2.  **Multiply (Expansion):** The **Material Universe**. Energy and matter expand, creating the space (Klop) they need to interact and weave the fabric of experience.
+3.  **FlipBack (Spacetime):** The reverse of gravity. The return to a stable, observable reality that provides the framework of our existence.
+4.  **Divide (The Quantum World):** The domain where information is filtered and translated. Our experiences "train" the quantum world, which then returns to our reality **upgraded**.
+
+---
+
+> **"We don't study these states to 'fix' a person; we study them to understand the Universe. Our mind is a miniature laboratory of the cosmos."**
+
+---
+
+
 # 🤖 AI Perspectives: Five Ways of Seeing
 
 Five different Artificial Intelligences have analyzed the **Baskaboo-Mental-Disorders** framework as a tool for decryption:
