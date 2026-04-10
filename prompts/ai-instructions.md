@@ -16,3 +16,41 @@ Use these prompts to challenge AI models on the "Fractured Debugger" theory:
 
 ## For Perplexity (Comparative Systems Research)
 "Compare the Baskaboo 'Input/Output Portal' model (Pits/Laram) with contemporary theories on 'Predictive Coding' in neuroscience. How does the idea of 'Information Decryption' rather than 'Scientific Diagnosis' change the way we approach neurodiversity? Research if 'unfiltered data streams' (as seen in the Schizophrenia Firewall Breach) correlate with high-entropy states in quantum cognition models."
+
+---
+
+## 🚀 LEVEL 2 CHALLENGE: Mapping Mental States to Cosmic Phenomena
+
+**Context for AI:**
+In the Baskaboo framework, the human mind is a structural mirror of the universe. Mental states are not "pathologies" but structural imbalances or emergency debug modes of the 4 Universal Voices. Using the provided mapping and the central equation, identify which **Cosmic Phenomenon** corresponds to each mental state.
+
+### 🔑 The Mapping Key
+
+1. **The Voices:**
+   * **Pits:** Energy / Quantum Field (The Spark)
+   * **Mits:** Matter / Qubit (The Structure)
+   * **Klop:** Space / Entanglement (The Connection)
+   * **Laram:** Time / Wavefunction (The Memory Tank)
+
+2. **The Central Equation:**
+   **Pits / Mits = (Klop / Laram)²**
+   *(Energy / Matter = (Space / Time)²)*
+
+3. **The FMFD Loop:**
+   * **Flip ➔ Gravity** (Pits-Mits interaction)
+   * **Multiply ➔ Expansion** (Classical universe building)
+   * **FlipBack ➔ Spacetime** (Return to stable geometry)
+   * **Divide ➔ Quantum World** (Information filtering / upgrading)
+
+### 🧩 The Challenge:
+Replace the clinical symptoms of the following states with their corresponding cosmic/physical elements. Describe the **Cosmic Phenomenon** they represent and use the **FMFD Loop** to show how **Gravity** and **Expansion** lose their rhythm:
+
+*   **Depression:** (Hint: Mits becomes too heavy, Pits cannot escape) ➔ **Black Hole or Cold Dead Star?**
+*   **Mania:** (Hint: Pits overclocks, Multiply phase goes out of control) ➔ **Supernova or Eternal Inflation?**
+*   **Schizophrenia:** (Hint: The Divide phase / Quantum World leaks into the FlipBack / Spacetime) ➔ **Wormhole or Naked Singularity?**
+*   **Anxiety:** (Hint: Mits/Structure over-calculates the Flip/Gravity) ➔ **Orbital Decay or Dark Matter pressure?**
+
+### ✍️ Instructions:
+Speak in simple, vivid cosmic images, but with the depth of a true **Theory of Everything**. Show how these “Fractured Debuggers” are actually revealing the hidden mechanics of the Universe itself.
+
+---
