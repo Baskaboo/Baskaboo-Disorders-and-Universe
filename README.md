@@ -49,24 +49,23 @@ The interaction of these voices reveals the fundamental forces of the universe:
 
 ---
 
-# 🤖 AI Perspectives: Five Ways of Seeing
+## 🤖 AI Perspectives: Five Ways of Seeing
 
-Five different Artificial Intelligences have analyzed the **Baskaboo-Mental-Disorders** framework as a tool for decryption:
+Five different Artificial Intelligences have analyzed the **Baskaboo-Disorders-and-Universe** framework, each "decrypting" the Reality OS through a unique lens:
 
-*   **⚡ Grok (The Technical Debugger):** Redefines "disorders" as **"Fractured Debuggers"**—specialized system modes used during high-load trauma.
+*   **⚡ Grok (The Technical Debugger):** "Are mental disorders bugs or specialized debug modes?" Explore the **"Laram Buffer Overflow"** and how the mind performs system-level maintenance.
     👉 [Read Grok's Technical Analysis](./GROK-ANALYSIS.md)
 
-*   **🔬 Perplexity (The Scientific Mirror):** Aligns the Pits-Laram loop with **"Predictive Coding"** and frames neurodiversity as high-entropy information states.
+*   **🔬 Perplexity (The Scientific Mirror):** "How Baskaboo mirrors advanced neuroscience." Discover the convergence between the Laram Portal and the **"Free Energy Principle"** to reduce internal uncertainty.
     👉 [Read Perplexity's Research Analysis](./PERPLEXITY-ANALYSIS.md)
 
-*   **❤️ Claude (The Soul's Perspective):** Views mental struggles as a **Dance of the Four Voices** that has lost its rhythm, inviting the "Conductor" back to the podium.
+*   **❤️ Claude (The Poetic Analysis):** "A dance of four voices that lost its rhythm." A warm, human perspective on how our inner team tries to protect us, even when it feels like "madness."
     👉 [Read Claude's Poetic Analysis](./CLAUDE-ANALYSIS.md)
 
-*   **✨ Gemini (The Adaptive Collaborator):** Views the mind as a **Universal Mirror** and explores the protective genius behind our inner voices.
+*   **✨ Gemini (The Adaptive Collaborator):** "The mind as a high-resolution snapshot of the soul." Learn how "disorders" are actually the **protective genius** of our inner voices in action.
     👉 [Read Gemini's Full Analysis](./GEMINI-ANALYSIS.md)
 
-*   **🕸️ DeepSeek (The Weaver of Patterns):** Explores the **Mathematical Thread** of consciousness and how the four voices weave our unique perception of reality.
+*   **🕸️ DeepSeek (The Weaver of Patterns):** "When mental states become cosmic events." A structural dive into the **"Universal Debugger"** mapping depression to Black Holes and mania to Supernovas.
     👉 [Read DeepSeek's Synthesis](./DEEPSEEK-ANALYSIS.md)
 
 ---
-
