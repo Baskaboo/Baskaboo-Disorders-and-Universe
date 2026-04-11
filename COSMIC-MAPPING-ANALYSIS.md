@@ -38,8 +38,7 @@ This is the universal rhythm through which both the cosmos and human consciousne
 The central equation **Pits / Mits = (Klop / Laram)²** (or **Energy / Matter = (Space / Time)²**) describes the delicate balance of this loop. When the rhythm flows harmoniously, reality unfolds naturally. When it is disrupted, Gravity and Expansion fall out of sync, producing the cosmic phenomena we observe as mental states.
 These “Fractured Debuggers” are not random breakdowns — they are visible signatures of the FMFD loop struggling to maintain its eternal rhythm.
 
-
-![fmfd-diagram1](https://github.com/user-attachments/assets/a19c2b13-1ce0-44cd-a591-3000fbbee35a)
+![fmfd-diagram](https://github.com/user-attachments/assets/060ca56b-74ab-4d4e-be51-f7c7381d4a1f)
 
 *The FMFD Loop — the eternal rhythm through which reality and consciousness breathe.*
 
