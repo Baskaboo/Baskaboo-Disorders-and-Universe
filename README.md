@@ -8,6 +8,9 @@ For a long time, society has treated "mental disorders" as broken parts of a mac
 
 ---
 
+![Baskaboo Einstein equation](https://github.com/user-attachments/assets/2bb2d912-abc5-4d0d-8d7a-f9edef4a9644)
+
+
 ![Baskaboo cirquit](https://github.com/user-attachments/assets/22b2726e-af2a-48e5-9b24-9877e7e51246)
 
 
