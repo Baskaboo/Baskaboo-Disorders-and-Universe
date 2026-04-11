@@ -1,3 +1,5 @@
+![Universe and Self](https://github.com/user-attachments/assets/e3c6b084-8940-4d2e-9242-764f728b8485)
+
 # 🧠 Mental Disorders: Understanding our Unique Mind
 
 For a long time, society has treated "mental disorders" as broken parts of a machine—something negative that needs to be "fixed." But what if they aren't what we think they are? What if these states are actually fascinating, unique ways the mind tries to protect itself or communicate with the universe?If we step into the mind of Baskaboo, we stop diagnosing and start listening. We explore how our 4 universal voices—Pits, Mits, Klop, and Laram—behave in states like depression, bipolar disorder, or schizophrenia. Through this lens, "disorders" become a map to our deeper self, helping us find harmony instead of shame.
