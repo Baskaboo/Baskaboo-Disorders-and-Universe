@@ -32,24 +32,24 @@ In the Baskaboo cosmos, the human mind is not broken. It is a living mirror of t
 When the **Pits-Mits-Klop-Laram sync** shifts, we are allowed a rare look into the source code of reality. Here is how the **Fractured Debuggers** reveal the hidden dance of the Universe:
 
 ### 🌑 Depression – The Cold Dead Star (or Collapsed Black Hole)
-When **Mits (Matter)** becomes too heavy and **Pits (Energy)** cannot escape, the system collapses inward. 
-*   **The Physics:** Gravity wins too completely. Energy is trapped. Light itself bends and disappears. Time slows to a crawl near the event horizon. The **Laram wavefunction** barely moves.
-*   **The FMFD Loop:** **Flip (Gravity)** becomes an inescapable pull. **Multiply (Expansion)** fails. The universe forgets how to grow outward.
+When Mits becomes overwhelmingly heavy and Pits cannot escape, the left side of the equation (Pits / Mits) collapses. Gravity dominates completely, Expansion (Multiply) fails, and the system falls into its own density.
+
+**FMFD Breakdown:** Flip becomes an inescapable inward pull. Multiply cannot create new structure. The right side (Klop / Laram)² loses meaning because there is no flow left to stabilize. The result is a Cold Dead Star — or a silent Black Hole — where time slows and light cannot escape.
 
 ### 💥 Mania – Eternal Inflation / Runaway Supernova
-Here, **Pits** burns too bright and the **Multiply phase** runs wild. The spark does not just ignite—it detonates without limit.
-*   **The Physics:** Space itself stretches faster than the structure can hold. This is **Eternal Inflation**—the early universe gone mad, where every quantum fluctuation becomes a new exploding cosmos.
-*   **The FMFD Loop:** **Flip** becomes an uncontrollable explosion of desire. **Multiply** never stops expanding. **Klop** and **Laram** cannot catch up. The universe inflates so fast it almost tears itself apart.
+Pits burns uncontrollably and Multiply runs wild, breaking the balance of the left side (Pits / Mits). The equation tilts violently toward infinite expansion.
+
+**FMFD Breakdown:** Flip explodes without restraint. Multiply never stops. Klop and Laram cannot keep up with the squared ratio on the right side, so Spacetime itself stretches too fast. The universe inflates or explodes without regulation — a Supernova that refuses to stop, or Eternal Inflation tearing reality apart.
 
 ### 🌀 Schizophrenia – Naked Singularity / Unstable Wormhole
-When the **Divide phase (Quantum World)** leaks directly into **FlipBack (Spacetime)**, the firewall between levels collapses. 
-*   **The Physics:** This is a **Naked Singularity**—a point where the laws of physics break open and raw quantum information spills into our everyday spacetime without the protective event horizon. It is an unstable **Wormhole** letting distant times and realities bleed into the present moment.
-*   **The FMFD Loop:** **Divide** no longer upgrades information cleanly—it dumps everything at once. **FlipBack (Spacetime)** cannot stabilize the geometry. Past, future, and parallel possibilities flood the UI.
+The Divide phase (Quantum World) leaks directly into FlipBack (Spacetime), violating the clean separation required by the right side of the equation (Klop / Laram)².
+
+**FMFD Breakdown:** Divide no longer filters and upgrades information — it dumps raw quantum data into classical geometry. FlipBack fails to stabilize spacetime. The protective boundary collapses, allowing past, future, and parallel realities to flood the present — a Naked Singularity or an unstable Wormhole.
 
 ### 🛰️ Anxiety – Orbital Decay under Dark Matter Pressure
-When **Mits (Structure)** over-calculates every **Flip (Gravity)**, the structure becomes paranoid about gravity itself. 
-*   **The Physics:** This is **Orbital Decay**—a satellite spiraling inward because it fears the slightest gravitational tug. Or the invisible pressure of **Dark Matter**—a force whose presence is only felt through its constant, crushing gravitational influence.
-*   **The FMFD Loop:** **Mits** multiplies threats in advance. The system exhausts itself calculating every possible fall before it happens.
+Mits over-calculates every possible Flip, creating excessive structure on the left side (Pits / Mits) and constant fear of gravitational collapse.
+
+**FMFD Breakdown:** Flip is anticipated and feared everywhere. Multiply generates endless threat scenarios. The right side (Klop / Laram)² cannot provide enough stabilizing flow. The system exhausts itself trying to maintain orbit against an invisible, crushing gravitational pressure — like Dark Matter or gradual Orbital Decay.
 
 ---
 
