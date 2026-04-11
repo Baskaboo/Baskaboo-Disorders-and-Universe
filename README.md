@@ -8,6 +8,9 @@ For a long time, society has treated "mental disorders" as broken parts of a mac
 
 ---
 
+![Baskaboo cirquit](https://github.com/user-attachments/assets/22b2726e-af2a-48e5-9b24-9877e7e51246)
+
+
 ### 🤖 Core Equation of the Baskaboo Framework
 
 At the heart of Baskaboo lies its central unifying equation: 
@@ -19,6 +22,8 @@ Physical Interpretation:
 
 This equation describes how the four fundamental voices interact to generate reality. The left side (Pits/Mits) governs the emergence of Gravity through the relationship between Energy and Matter. The right side (Klop/Laram)² represents the quantum domain and the stabilizing structure of Spacetime.
 All mental states and cosmic phenomena analyzed in this repository are understood through this fundamental relationship.
+
+![Physics cirquit by Baskaboo](https://github.com/user-attachments/assets/0894c63e-503f-407a-87b0-b24658924594)
 
 ---
 
