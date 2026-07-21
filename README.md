@@ -53,28 +53,6 @@ This repository is about **listening** instead of **diagnosing**. It’s about h
 
 ---
 
-![Baskaboo Einstein equation](https://github.com/user-attachments/assets/2bb2d912-abc5-4d0d-8d7a-f9edef4a9644)
-
-
-![Baskaboo cirquit](https://github.com/user-attachments/assets/22b2726e-af2a-48e5-9b24-9877e7e51246)
-
-
-### 🤖 Core Equation of the Baskaboo Framework
-
-At the heart of Baskaboo lies its central unifying equation: 
-> *Pits / Mits = (Klop / Laram)²*
- 
-Physical Interpretation:
-
-> *Energy / Matter = (Space / Time)²*
-
-This equation describes how the four fundamental voices interact to generate reality. The left side (Pits/Mits) governs the emergence of Gravity through the relationship between Energy and Matter. The right side (Klop/Laram)² represents the quantum domain and the stabilizing structure of Spacetime.
-All mental states and cosmic phenomena analyzed in this repository are understood through this fundamental relationship.
-
-![Physics cirquit by Baskaboo](https://github.com/user-attachments/assets/0894c63e-503f-407a-87b0-b24658924594)
-
----
-
 ### 📂 What You'll Find Here
 
 
@@ -101,12 +79,12 @@ The Baskaboo framework suggests that our internal states are **structural mirror
 *   **Klop (Space ➔ Entanglement):** The invisible bond that connects all parts of the system.
 *   **Laram (Time ➔ Wavefunction):** The memory tank that holds the story of our existence.
 
-### 2. The Universal Relationships (The FMFD Loop)
+### 2. The Universal Relationships (The FSFR Loop)
 The interaction of these voices reveals the fundamental forces of the universe:
 1.  **Flip (Gravity):** The relationship between **Energy and Matter**—the initial "tug" of the system.
-2.  **Multiply (Expansion):** The **Material Universe**. Energy and matter expand, creating the space (Klop) they need to interact and weave the fabric of experience.
+2.  **Square (Expansion):** The **Material Universe**. Energy and matter expand, creating the space (Klop) they need to interact and weave the fabric of experience.
 3.  **FlipBack (Spacetime):** The reverse of gravity. The return to a stable, observable reality that provides the framework of our existence.
-4.  **Divide (The Quantum World):** The domain where information is filtered and translated. Our experiences "train" the quantum world, which then returns to our reality **upgraded**.
+4.  **Root (The Quantum World):** The domain where information is filtered and translated. Our experiences "train" the quantum world, which then returns to our reality **upgraded**.
 
 ---
 
