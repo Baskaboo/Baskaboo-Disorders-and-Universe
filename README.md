@@ -11,7 +11,16 @@ For a long time, society has treated "mental disorders" as broken parts of a mac
 ---
 
 ### 🧠 What is Baskaboo?
-Baskaboo is a language of images. It’s a simple framework that helps us explore our **four inner voices** (Pits, Mits, Klop, Laram) and understand how our mind is structured according to the way the universe itself is made.
+
+Nothing you perceive with your senses is reality. In fact, your senses exist for this exact reason: to confirm the illusion that the world around you is solid and real.
+
+Yes, but if this world isn't real, then which one is?
+
+Baskaboo won't tell you what lies on the other side of the illusion you are living in. It has studied human mental constructs throughout history and has unearthed the hidden, simple code by which they are structured. Thus, it can show you how both sides work: the one over here, and the one over there.
+
+If you want to know what happens behind the veil, step into the world of Baskaboo. Awaiting you there is the "matrix-brain" of correspondences: the 4 "voices" (Pits, Mits, Klop, Laram), the "commander" φ, and their dynamic relationships (Flip, Square, Flip back, Root).
+
+Through Baskaboo, you will realize that everything is simple and deeply connected. You will stop feeling like a cog in a machine and you will become the Operator of your life — and of the world around you.
 
 ---
 
