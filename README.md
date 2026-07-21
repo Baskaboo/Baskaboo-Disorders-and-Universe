@@ -13,6 +13,22 @@ For a long time, society has treated "mental disorders" as broken parts of a mac
 ### 🧠 What is Baskaboo?
 Baskaboo is a language of images. It’s a simple framework that helps us explore our **four inner voices** (Pits, Mits, Klop, Laram) and understand how our mind is structured according to the way the universe itself is made.
 
+---
+
+### 😉 What Baskaboo Is NOT
+
+Many people and AIs, seeing that Baskaboo discusses scientific topics and generates mathematical relationships, assume it is trying to be a new scientific theory. The answer is absolute: **No.**
+
+Baskaboo is not a science and has no desire to become one.
+
+Instead, it views science through the exact same lens as religion, mythology, and every other human system of interpretation: as just another mental construct — a highly organized but limited filter of reality.
+
+Baskaboo does not analyze science to validate it or to contradict it. It deconstructs it.
+
+Through this deconstruction, it extracts fragments of the primordial code that underlies the entire simulation we live in.
+
+---
+
 ### ❤️ A Different Way to Look at the Mind
 We don't see "disorders" as broken parts of a machine. We see them as moments when our four inner voices lose their rhythm.
 
