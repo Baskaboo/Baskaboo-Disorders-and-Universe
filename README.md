@@ -82,7 +82,7 @@ The Baskaboo framework suggests that our internal states are **structural mirror
 ### 2. The Universal Relationships (The FSFR Loop)
 The interaction of these voices reveals the fundamental forces of the universe:
 1.  **Flip (Gravity):** The relationship between **Energy and Matter**—the initial "tug" of the system.
-2.  **Square (Expansion):** The **Material Universe**. Energy and matter expand, creating the space (Klop) they need to interact and weave the fabric of experience.
+2.  **Square (The Material Universe):** Energy and matter expand, creating the space (Klop) they need to interact and weave the fabric of experience.
 3.  **FlipBack (Spacetime):** The reverse of gravity. The return to a stable, observable reality that provides the framework of our existence.
 4.  **Root (The Quantum World):** The domain where information is filtered and translated. Our experiences "train" the quantum world, which then returns to our reality **upgraded**.
 
